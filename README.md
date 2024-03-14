@@ -1,5 +1,3 @@
-# YeonJeong-Woo
-
 # 안녕하세요! 여기는 YeonJeong Woo의 Git Hub입니다.
 
 👨‍💻 저는 백엔드 개발자를 목표로 공부하고 있는 학생입니다.
