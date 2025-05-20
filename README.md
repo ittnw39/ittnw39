@@ -4,14 +4,6 @@
   <i>🚀 끊임없이 배우고 성장하며 사용자를 위한 가치를 만드는 백엔드 개발자를 꿈꿉니다. 🚀</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittnw39&layout=compact&theme=radical&langs_count=8" alt="Top Langs" height="195px"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/24B47E/ittnw39" alt="ittnw39's Github chart" width="90%"/>
-</p>
-
 ---
 
 ### 💡 About Me
@@ -24,8 +16,9 @@
 ---
 
 ### 🛠️ Tech Stack
-
-<p align="center">
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ittnw39&layout=compact&theme=radical&langs_count=8" alt="Top Langs" height="195px"/>
+  <p align="right">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
@@ -45,27 +38,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 </p>
+  </p>
 
 * **Backend:** Java, Spring Boot, Spring Security, JPA, RESTful API
 * **Database:** Oracle, MySQL, MariaDB
 * **Infra & DevOps:** AWS (S3, EC2), Git, GitHub Actions (CI/CD)
 * **Collaboration Tools:** GitHub, GitLab, Notion, Discord, Slack
-
----
-
-### 📜 Certificates
-
-* **정보처리기사** (2024.12, 한국산업인력공단)
-* **SQL 개발자 (SQLD)** (2024.12, 한국데이터산업진흥원)
-* **데이터분석 준전문가 (ADsP)** (2024.11, 한국데이터산업진흥원)
-
+  
 ---
 
 ### 🚀 My Projects
 
 제가 참여하고 진행한 주요 프로젝트들입니다. 각 프로젝트를 통해 꾸준히 성장해왔습니다. <br/>
 (✨ *더 자세한 내용은 각 프로젝트의 README 또는 [제 포트폴리오](https://www.notion.so/Backend-Developer-Portfolio-1f9804e071878026ad84c3ea5d0c6f3e)를 참고해주세요!*)
-| 프로젝트             | 개발 기간                      | 역할 및 핵심 기능                                  | 기술 스택                                                                                               | GitHub Link                                                              |
+| 프로젝트             | 개발 기간                      | 역할 및 핵심 기능                                  | 기술 스택                                                                                               | Repository                                                              |
 | :------------------------------ | :-------------------------- | :-------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
 | 🫧 **Glow Gallery** (Cosmetic Review Board) | 2024.04 ~ 2024.05 <br/> (약 2주) | 💄공공 API 활용 화장품 정보/리뷰 CRUD 게시판 (개인 프로젝트, Full-stack) | `Java` `Spring Boot` `MySQL` `JPA` `Gradle` `HTML` `CSS` `JS` `Bootstrap` | [Cosmetic-Review-Board-Project1](https://github.com/ittnw39/Cosmetic-Review-Board-Project1) |
 | 📕 **북팔이 (Bookpali)** | 2024.05 ~ 2024.06 <br/> (약 4주) | 📚온라인 도서 대여/판매 서비스 (팀 프로젝트, 주문 도메인 백엔드 개발) | `Java` `Spring Boot` `JPA` `MySQL` `Gradle` | [Book-Store-Rent-WebSite-Project2](https://github.com/ittnw39/Book-Store-Rent-WebSite-Project2) |
