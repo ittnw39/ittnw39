@@ -1,10 +1,6 @@
 # Hi there, I'm YeonJeong Woo! 👋
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/24B47E/ittnw39" alt="ittnw39's Github chart" width="90%"/>
-</p>
-
-<p align="center">
   <i>🚀 끊임없이 배우고 성장하며 사용자를 위한 가치를 만드는 백엔드 개발자를 꿈꿉니다. 🚀</i>
 </p>
 
@@ -13,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:yj753110@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://ghchart.rshah.org/24B47E/ittnw39" alt="ittnw39's Github chart" width="90%"/>
 </p>
 
 ---
@@ -84,4 +80,5 @@
   Thank you for visiting my GitHub! 😊
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=ittnw39&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
+<a href="mailto:yj753110@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=ittnw39&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
